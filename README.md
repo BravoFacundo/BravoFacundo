@@ -1,3 +1,14 @@
 <h1 align="center">Hi, I'm Facundo Bravo</h1>
-<h3 align="left">I'm 22 years old and have a degree in multimedia design.<br> 
-  <br> I specialize in developing video games and interactive experiences.</h3>
+I'm 22 years old and have a degree in multimedia design.
+I specialize in developing video games and interactive experiences.
+
+## Skills
+
+- C#, Unity
+- Java, Processing
+
+## Socials
+
+- [LinkedIn](https://www.linkedin.com/in/bravofacundo/)
+- [Itch.io](https://facundo-bravo.itch.io/)
+- [Behance](https://www.behance.net/bravofacundo)
