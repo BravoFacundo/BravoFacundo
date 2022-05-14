@@ -4,8 +4,8 @@ I specialize in developing video games and interactive experiences.
 
 ## Skills
 
-- C#, Unity
-- Java, Processing
+- C#, Unity, Vuforia
+- Java, Processing, Keystone, Video
 
 ## Socials
 
