@@ -2,13 +2,14 @@
 I'm 23 years old and have a degree in multimedia design.
 I specialize in developing video games and interactive experiences.
 
-## Skills
+#### Skills
 
 - C#, Unity, Vuforia
 - Java, Processing, Keystone, Video
 
-## Socials
+#### Socials
 
 - [LinkedIn](https://www.linkedin.com/in/bravofacundo/)
 - [Itch.io](https://facundo-bravo.itch.io/)
+- facundobravot@gmail.com
 <!--(- [Behance](https://www.behance.net/bravofacundo))-->
