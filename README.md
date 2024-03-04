@@ -15,4 +15,5 @@ I specialize in developing video games and interactive experiences.
 <!--(- [Behance](https://www.behance.net/bravofacundo))-->
 <!--(&nbsp;))-->
 
-![](github.gif)
+![github](https://github.com/BravoFacundo/BravoFacundo/assets/88951560/5d1ca2c9-8632-4f7e-8734-a723846ac213)
+
