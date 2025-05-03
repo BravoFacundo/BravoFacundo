@@ -11,8 +11,8 @@ I specialize in developing video games and interactive experiences.
 
 - [LinkedIn](https://www.linkedin.com/in/bravofacundo/)
 - [Itch.io](https://facundo-bravo.itch.io/)
-- facundobravot@gmail.com
 - [Behance](https://www.behance.net/bravofacundo)
+- facundobravot@gmail.com
 <!--(&nbsp;))-->
 <br>
 
